@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 5G/4G Technology
 - 📫 How to reach me: learningit2021@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Guddu
 - ⚡ Fun fact: Starting from scratch.
 -->
