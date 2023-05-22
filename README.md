@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**chaitenyasharma/chaitenyasharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chaitenyasharma this side. Trying to get in DEVOPS space and Product developement domain for 4G/5G technology.
 
-Here are some ideas to get you started:
+Short summary:
 
 - 🔭 I’m currently working on 4G/5G Technologies.
 - 🌱 I’m currently learning Github and Python.
@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 5G/4G Technology
 - 📫 How to reach me: learningit2021@gmail.com
-- 😄 Pronouns: Guddu
-- ⚡ Fun fact: Starting from scratch.
+- 😄 Pronouns: Guddu 
+- ⚡ Fun fact: Starting from scratch my DEVOPS journey.
 -->
