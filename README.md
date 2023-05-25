@@ -8,7 +8,7 @@ Short summary:
 - 🔭 I’m currently working on 4G/5G Technologies.
 - 🌱 I’m currently learning Github and Python.
 - 👯 I’m looking to collaborate on 5G Product developements.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with changing my job.
 - 💬 Ask me about 5G/4G Technology
 - 📫 How to reach me: learningit2021@gmail.com
 - 😄 Pronouns: Guddu 
